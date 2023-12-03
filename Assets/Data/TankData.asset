@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9e37a3404c6c1439d97c1b53b5d783, type: 3}
+  m_Name: TankData
+  m_EditorClassIdentifier: 
+  TankSpeed: 1.5
+  bulletPrefab: {fileID: 3340079100659584121, guid: 4c1f3bc0eed7c0a4cb381670226837ec, type: 3}
